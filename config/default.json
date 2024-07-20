@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://arshartisan:ITP_Y2S2@itpmern.gfapsj6.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken"
+}

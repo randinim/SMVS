@@ -1,0 +1,2 @@
+node_modules/ 
+##This command wont push node modules to the git 
